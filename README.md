@@ -89,10 +89,11 @@
 
 <br>
 
-<!-- 贪吃蛇贡献动画 -->
+<!-- 贪吃蛇贡献动画（免Action版本，直接生效） -->
 <div align="center">
-  <img src="https://github.com/mbc27/mbc27/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://snake-github.vercel.app/api?username=mbc27" alt="snake animation" />
 </div>
+
 
 <br>
 
