@@ -1,0 +1,26 @@
+name: Generate snake animation
+
+on:
+  schedule:
+    # 每天UTC时间0点执行（国内早上8点）
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 支持手动点按钮触发！这个很重要，可以立刻测试
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: mbc27
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
