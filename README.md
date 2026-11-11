@@ -83,23 +83,23 @@
 
 ### 📊 数据卡片（透明玻璃拟态）
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbc27&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff00" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbc27&layout=compact&theme=vue&hide_border=true&bg_color=ffffff00" width="40%">
+  <img src="https://github-stats.aika.dev/api?username=mbc27&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff00" width="48%">
+  <img src="https://github-stats.aika.dev/api/top-langs/?username=mbc27&layout=compact&theme=vue&hide_border=true&bg_color=ffffff00" width="40%">
 </div>
 
 <br>
 
-<!-- 贪吃蛇贡献动画（免Action版本，直接生效） -->
+<!-- 贪吃蛇贡献动画 -->
 <div align="center">
-  <img src="https://snake-github.vercel.app/api?username=mbc27" alt="snake animation" />
+  <img src="https://github-snake.vercel.app/?username=mbc27" alt="snake animation" />
 </div>
-
 
 <br>
 
 <div align="center">
   ✦ ✧ ✦ ✧ ✦ ✧ ✦
 </div>
+
 
 ### 🛠️ 技术栈
 <div align="center">
