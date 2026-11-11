@@ -92,8 +92,9 @@
 <br>
 <!-- 贪吃蛇贡献动画 -->
 <div align="center">
-  <img src="https://gh-snake.vercel.app/api?username=mbc27" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/mbc27/mbc27/output/github-snake.svg" alt="snake animation" />
 </div>
+
 
 <br>
 <div align="center">
