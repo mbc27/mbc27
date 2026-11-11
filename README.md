@@ -89,16 +89,17 @@
 
 <br>
 
+<br>
 <!-- 贪吃蛇贡献动画 -->
 <div align="center">
-  <img src="https://github-snake.vercel.app/?username=mbc27" alt="snake animation" />
+  <img src="https://gh-snake.vercel.app/api?username=mbc27" alt="snake animation" />
 </div>
 
 <br>
-
 <div align="center">
   ✦ ✧ ✦ ✧ ✦ ✧ ✦
 </div>
+
 
 
 ### 🛠️ 技术栈
